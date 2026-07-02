@@ -1,14 +1,17 @@
 # Morse Badge
 Battery powered badge based on a WCH CH582F microcontroller, with a OLED display, battery holder.
 
+## Bill of Materials
 
-No.	Quantity	Value	Manufacturer Part	Supplier Part	JLCPCB Price	Designator	Name	Manufacturer
-1	1		2.54-1*3P针	C49257	0.0038	H2	2.54-1*3P针	BOOMELE(博穆精密)
-2	1		CH582F	C3001175	0.1881	U1	CH582F	WCH(南京沁恒)
-3	1		CR2032-BS-6-1	C70377	0.0204	B1	CR2032-BS-6-1	QIJEY
-4	1		HS91L02W2C01	C5248081	0.3438	OLED1	HS91L02W2C01	HS(汉昇)
-5	2	1kΩ	FRC0805F1001TS	C2907232	0.0007	R2,R3	1kΩ	FOJAN(富捷)
-6	2	100nF	CL05B104KO5NNNC	C1525	0.0008	C1,C2	100nF	SAMSUNG(三星)
+| Quantity | Part | Designator(s) | Manufacturer Part | Supplier Part | Manufacturer |
+|---|---|---|---|---|---|
+| 1 | 2.54-1*3P pin header | H2 | 2.54-1*3P针 | C49257 | BOOMELE(博穆精密) |
+| 1 | CH582F microcontroller | U1 | CH582F | C3001175 | WCH(南京沁恒) |
+| 1 | CR2032 battery holder | B1 | CR2032-BS-6-1 | C70377 | QIJEY |
+| 1 | 0.91" OLED display | OLED1 | HS91L02W2C01 | C5248081 | HS(汉昇) |
+| 2 | 1 kΩ resistor | R2, R3 | FRC0805F1001TS | C2907232 | FOJAN(富捷) |
+| 2 | 100 nF capacitor | C1, C2 | CL05B104KO5NNNC | C1525 | SAMSUNG(三星) |
+
 
 
 
