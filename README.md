@@ -1,5 +1,7 @@
 # Morse Badge
-Battery powered badge based on a WCH CH582F microcontroller, with a OLED display, battery holder.
+
+With this Badge you can send morse code to other people.
+The Badge is battery powered and based on a WCH CH582F microcontroller, with a OLED display.
 
 ## Bill of Materials
 
